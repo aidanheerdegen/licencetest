@@ -1,0 +1,2 @@
+# licencetest
+Test changing licence
